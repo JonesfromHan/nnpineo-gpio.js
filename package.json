@@ -1,6 +1,6 @@
 {
   "name": "npineo-gpio",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "Control NanoPI NEO GPIO pins with node.js",
   "main": "npineo-gpio.js",
   "keywords:": [
